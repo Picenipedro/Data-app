@@ -13,7 +13,9 @@ server = app.server
 
 #---------------------------------------------
 
+excel = pd.read_csv(r'C:\Users\Peter\Data explotation web - App\Data')
 
+excel.head()
 
 
 
